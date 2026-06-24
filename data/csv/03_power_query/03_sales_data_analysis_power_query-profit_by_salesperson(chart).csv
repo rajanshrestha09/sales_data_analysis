@@ -1,0 +1,30 @@
+,,,,,,,,,,,
+,,,,,,,,,,,
+,01_salespeople.Salesperson,Sum of Revenue,,,,,,,,01_salespeople.Salesperson,Product Sold
+,Fatima Noor,"$50,459",,,,,,,,Diana Lopez,28
+,Aisha Khan,"$58,956",,,,,,,,Chen Wei,24
+,Jamal Edwards,"$66,945",,,,,,,,Grace Mwangi,24
+,Isabela Rocha,"$78,494",,,,,,,,Ethan Brooks,23
+,Hiro Tanaka,"$88,023",,,,,,,,Hiro Tanaka,22
+,Chen Wei,"$105,455",,,,,,,,Bruno Costa,20
+,Diana Lopez,"$132,601",,,,,,,,Isabela Rocha,20
+,Bruno Costa,"$139,810",,,,,,,,Fatima Noor,15
+,Grace Mwangi,"$144,780",,,,,,,,Aisha Khan,12
+,Ethan Brooks,"$193,317",,,,,,,,Jamal Edwards,12
+,Total Result,"$1,058,839",,,,,,,,Total Result,200
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,01_salespeople.Salesperson,Sum of Profit,,,,,,,,,
+,Ethan Brooks,"$28,786",,,,,,,,,
+,Grace Mwangi,"$27,143",,,,,,,,,
+,Diana Lopez,"$26,506",,,,,,,,,
+,Chen Wei,"$24,576",,,,,,,,,
+,Bruno Costa,"$23,319",,,,,,,,,
+,Hiro Tanaka,"$21,694",,,,,,,,,
+,Isabela Rocha,"$19,176",,,,,,,,,
+,Jamal Edwards,"$13,779",,,,,,,,,
+,Fatima Noor,"$13,459",,,,,,,,,
+,Aisha Khan,"$9,454",,,,,,,,,
+,Total Result,"$207,891",,,,,,,,,

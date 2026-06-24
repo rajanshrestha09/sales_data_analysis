@@ -1,0 +1,201 @@
+OrderID,OrderDate,SalespersonID,ProductID,Channel,Region,Country,Quantity
+ORD-10001,11/23/2024,S-02,P-101,Partner,EMEA,Portugal,9
+ORD-10002,4/24/2024,S-03,P-402,Online,APAC,Singapore,22
+ORD-10003,10/29/2024,S-07,P-101,Online,EMEA,Kenya,3
+ORD-10004,4/29/2024,S-09,P-303,Online,Americas,Brazil,18
+ORD-10005,11/28/2024,S-09,P-203,Online,Americas,Brazil,15
+ORD-10006,1/4/2024,S-03,P-402,Retail,APAC,Singapore,11
+ORD-10007,3/20/2024,S-04,P-403,Retail,Americas,Mexico,4
+ORD-10008,7/13/2024,S-02,P-202,Retail,EMEA,Portugal,20
+ORD-10009,1/23/2024,S-08,P-302,Online,APAC,Japan,13
+ORD-10010,10/9/2024,S-05,P-501,Partner,Americas,United States,20
+ORD-10011,10/22/2024,S-04,P-402,Online,Americas,Mexico,2
+ORD-10012,5/28/2024,S-02,P-501,Online,EMEA,Portugal,4
+ORD-10013,5/22/2024,S-08,P-401,Retail,APAC,Japan,6
+ORD-10014,6/30/2024,S-04,P-401,Retail,Americas,Mexico,23
+ORD-10015,11/7/2024,S-03,P-302,Partner,APAC,Singapore,8
+ORD-10016,8/24/2024,S-07,P-201,Partner,EMEA,Kenya,23
+ORD-10017,12/16/2024,S-06,P-501,Online,EMEA,United Arab Emirates,8
+ORD-10018,6/10/2024,S-07,P-201,Online,EMEA,Kenya,7
+ORD-10019,4/18/2024,S-08,P-203,Partner,APAC,Japan,15
+ORD-10020,5/15/2024,S-03,P-104,Partner,APAC,Singapore,18
+ORD-10021,10/26/2024,S-07,P-502,Partner,EMEA,Kenya,13
+ORD-10022,4/22/2024,S-03,P-302,Retail,APAC,Singapore,3
+ORD-10023,2/26/2024,S-03,P-401,Online,APAC,Singapore,22
+ORD-10024,11/1/2024,S-02,P-203,Retail,EMEA,Portugal,20
+ORD-10025,9/27/2024,S-05,P-302,Online,Americas,United States,22
+ORD-10026,12/15/2024,S-09,P-403,Retail,Americas,Brazil,25
+ORD-10027,2/27/2024,S-05,P-203,Online,Americas,United States,15
+ORD-10028,5/14/2024,S-09,P-403,Online,Americas,Brazil,17
+ORD-10029,11/16/2024,S-05,P-501,Partner,Americas,United States,17
+ORD-10030,3/19/2024,S-06,P-403,Online,EMEA,United Arab Emirates,18
+ORD-10031,11/2/2024,S-06,P-301,Online,EMEA,United Arab Emirates,4
+ORD-10032,6/6/2024,S-04,P-101,Online,Americas,Mexico,19
+ORD-10033,2/13/2024,S-08,P-501,Online,APAC,Japan,25
+ORD-10034,3/6/2024,S-08,P-302,Online,APAC,Japan,9
+ORD-10035,4/18/2024,S-09,P-403,Partner,Americas,Brazil,23
+ORD-10036,12/31/2024,S-05,P-203,Partner,Americas,United States,21
+ORD-10037,8/12/2024,S-09,P-301,Online,Americas,Brazil,8
+ORD-10038,2/2/2024,S-06,P-101,Partner,EMEA,United Arab Emirates,18
+ORD-10039,10/28/2024,S-04,P-101,Online,Americas,Mexico,23
+ORD-10040,4/27/2024,S-02,P-502,Online,EMEA,Portugal,11
+ORD-10041,9/20/2024,S-04,P-201,Partner,Americas,Mexico,16
+ORD-10042,10/3/2024,S-03,P-402,Partner,APAC,Singapore,19
+ORD-10043,5/4/2024,S-08,P-403,Retail,APAC,Japan,7
+ORD-10044,2/19/2024,S-07,P-202,Retail,EMEA,Kenya,14
+ORD-10045,1/28/2024,S-02,P-101,Retail,EMEA,Portugal,24
+ORD-10046,2/25/2024,S-04,P-104,Online,Americas,Mexico,18
+ORD-10047,3/12/2024,S-07,P-103,Retail,EMEA,Kenya,15
+ORD-10048,2/8/2024,S-08,P-403,Partner,APAC,Japan,4
+ORD-10049,11/29/2024,S-09,P-501,Online,Americas,Brazil,3
+ORD-10050,3/26/2024,S-07,P-301,Retail,EMEA,Kenya,7
+ORD-10051,1/31/2024,S-03,P-203,Online,APAC,Singapore,13
+ORD-10052,8/20/2024,S-05,P-203,Partner,Americas,United States,24
+ORD-10053,3/20/2024,S-04,P-201,Online,Americas,Mexico,2
+ORD-10054,6/9/2024,S-01,P-101,Partner,EMEA,United Kingdom,16
+ORD-10055,1/30/2024,S-09,P-102,Online,Americas,Brazil,3
+ORD-10056,12/11/2024,S-04,P-203,Online,Americas,Mexico,19
+ORD-10057,10/23/2024,S-10,P-101,Partner,Americas,Canada,3
+ORD-10058,12/2/2024,S-10,P-303,Partner,Americas,Canada,11
+ORD-10059,4/14/2024,S-06,P-104,Retail,EMEA,United Arab Emirates,13
+ORD-10060,12/9/2024,S-05,P-301,Retail,Americas,United States,25
+ORD-10061,1/5/2024,S-08,P-303,Partner,APAC,Japan,4
+ORD-10062,10/2/2024,S-04,P-302,Retail,Americas,Mexico,5
+ORD-10063,2/5/2024,S-04,P-202,Retail,Americas,Mexico,6
+ORD-10064,10/5/2024,S-05,P-303,Partner,Americas,United States,17
+ORD-10065,12/7/2024,S-09,P-201,Partner,Americas,Brazil,4
+ORD-10066,5/15/2024,S-02,P-502,Online,EMEA,Portugal,24
+ORD-10067,5/19/2024,S-05,P-303,Online,Americas,United States,23
+ORD-10068,4/14/2024,S-05,P-302,Retail,Americas,United States,9
+ORD-10069,2/17/2024,S-07,P-501,Retail,EMEA,Kenya,2
+ORD-10070,6/19/2024,S-03,P-401,Retail,APAC,Singapore,6
+ORD-10071,10/9/2024,S-07,P-302,Online,EMEA,Kenya,4
+ORD-10072,12/19/2024,S-03,P-302,Online,APAC,Singapore,12
+ORD-10073,8/8/2024,S-03,P-101,Retail,APAC,Singapore,12
+ORD-10074,7/2/2024,S-04,P-401,Online,Americas,Mexico,22
+ORD-10075,6/30/2024,S-09,P-502,Retail,Americas,Brazil,20
+ORD-10076,5/1/2024,S-03,P-403,Online,APAC,Singapore,14
+ORD-10077,4/1/2024,S-06,P-403,Retail,EMEA,United Arab Emirates,22
+ORD-10078,5/16/2024,S-03,P-403,Partner,APAC,Singapore,4
+ORD-10079,1/20/2024,S-08,P-104,Online,APAC,Japan,15
+ORD-10080,6/5/2024,S-04,P-104,Online,Americas,Mexico,22
+ORD-10081,7/23/2024,S-06,P-201,Online,EMEA,United Arab Emirates,25
+ORD-10082,6/28/2024,S-09,P-203,Partner,Americas,Brazil,18
+ORD-10083,1/15/2024,S-02,P-502,Retail,EMEA,Portugal,6
+ORD-10084,1/20/2024,S-02,P-303,Retail,EMEA,Portugal,12
+ORD-10085,8/11/2024,S-10,P-302,Online,Americas,Canada,13
+ORD-10086,5/10/2024,S-01,P-402,Retail,EMEA,United Kingdom,1
+ORD-10087,7/5/2024,S-07,P-102,Partner,EMEA,Kenya,11
+ORD-10088,12/5/2024,S-02,P-402,Retail,EMEA,Portugal,17
+ORD-10089,12/7/2024,S-07,P-202,Retail,EMEA,Kenya,23
+ORD-10090,10/10/2024,S-03,P-104,Retail,APAC,Singapore,22
+ORD-10091,12/12/2024,S-03,P-303,Partner,APAC,Singapore,10
+ORD-10092,10/7/2024,S-01,P-201,Retail,EMEA,United Kingdom,7
+ORD-10093,10/23/2024,S-10,P-401,Retail,Americas,Canada,15
+ORD-10094,8/14/2024,S-04,P-302,Retail,Americas,Mexico,24
+ORD-10095,12/3/2024,S-02,P-201,Partner,EMEA,Portugal,22
+ORD-10096,2/17/2024,S-04,P-401,Retail,Americas,Mexico,8
+ORD-10097,3/16/2024,S-01,P-101,Online,EMEA,United Kingdom,16
+ORD-10098,8/21/2024,S-07,P-502,Partner,EMEA,Kenya,19
+ORD-10099,12/22/2024,S-07,P-301,Retail,EMEA,Kenya,8
+ORD-10100,12/1/2024,S-01,P-502,Online,EMEA,United Kingdom,25
+ORD-10101,4/22/2024,S-03,P-403,Partner,APAC,Singapore,17
+ORD-10102,1/26/2024,S-09,P-104,Online,Americas,Brazil,15
+ORD-10103,8/25/2024,S-09,P-302,Partner,Americas,Brazil,11
+ORD-10104,11/9/2024,S-09,P-203,Partner,Americas,Brazil,15
+ORD-10105,8/31/2024,S-08,P-201,Online,APAC,Japan,21
+ORD-10106,9/23/2024,S-08,P-401,Online,APAC,Japan,9
+ORD-10107,2/9/2024,S-05,P-104,Retail,Americas,United States,11
+ORD-10108,10/3/2024,S-02,P-103,Online,EMEA,Portugal,8
+ORD-10109,12/21/2024,S-03,P-402,Online,APAC,Singapore,3
+ORD-10110,7/27/2024,S-06,P-302,Retail,EMEA,United Arab Emirates,14
+ORD-10111,4/15/2024,S-07,P-203,Partner,EMEA,Kenya,23
+ORD-10112,10/21/2024,S-07,P-301,Online,EMEA,Kenya,12
+ORD-10113,7/18/2024,S-07,P-302,Partner,EMEA,Kenya,24
+ORD-10114,9/6/2024,S-04,P-201,Retail,Americas,Mexico,16
+ORD-10115,7/18/2024,S-06,P-401,Partner,EMEA,United Arab Emirates,13
+ORD-10116,8/27/2024,S-03,P-303,Partner,APAC,Singapore,1
+ORD-10117,10/30/2024,S-10,P-401,Online,Americas,Canada,3
+ORD-10118,3/10/2024,S-08,P-103,Online,APAC,Japan,9
+ORD-10119,6/16/2024,S-04,P-301,Retail,Americas,Mexico,11
+ORD-10120,5/22/2024,S-07,P-201,Online,EMEA,Kenya,16
+ORD-10121,10/3/2024,S-01,P-202,Online,EMEA,United Kingdom,21
+ORD-10122,11/29/2024,S-01,P-403,Online,EMEA,United Kingdom,8
+ORD-10123,1/11/2024,S-10,P-103,Online,Americas,Canada,5
+ORD-10124,12/8/2024,S-02,P-303,Online,EMEA,Portugal,15
+ORD-10125,7/7/2024,S-03,P-303,Partner,APAC,Singapore,24
+ORD-10126,3/24/2024,S-05,P-102,Partner,Americas,United States,1
+ORD-10127,10/21/2024,S-07,P-203,Partner,EMEA,Kenya,7
+ORD-10128,10/30/2024,S-04,P-102,Partner,Americas,Mexico,25
+ORD-10129,12/16/2024,S-10,P-403,Online,Americas,Canada,19
+ORD-10130,6/26/2024,S-09,P-203,Partner,Americas,Brazil,12
+ORD-10131,9/16/2024,S-06,P-101,Retail,EMEA,United Arab Emirates,16
+ORD-10132,8/9/2024,S-06,P-401,Retail,EMEA,United Arab Emirates,23
+ORD-10133,8/10/2024,S-03,P-402,Partner,APAC,Singapore,21
+ORD-10134,11/11/2024,S-09,P-403,Retail,Americas,Brazil,15
+ORD-10135,10/30/2024,S-05,P-202,Online,Americas,United States,3
+ORD-10136,8/18/2024,S-04,P-403,Retail,Americas,Mexico,19
+ORD-10137,6/21/2024,S-01,P-301,Retail,EMEA,United Kingdom,6
+ORD-10138,4/18/2024,S-06,P-403,Retail,EMEA,United Arab Emirates,11
+ORD-10139,11/1/2024,S-05,P-302,Online,Americas,United States,17
+ORD-10140,2/13/2024,S-04,P-402,Retail,Americas,Mexico,16
+ORD-10141,12/19/2024,S-08,P-401,Partner,APAC,Japan,16
+ORD-10142,1/9/2024,S-02,P-201,Online,EMEA,Portugal,13
+ORD-10143,6/5/2024,S-10,P-202,Retail,Americas,Canada,18
+ORD-10144,8/5/2024,S-09,P-202,Retail,Americas,Brazil,23
+ORD-10145,5/18/2024,S-05,P-201,Online,Americas,United States,4
+ORD-10146,6/10/2024,S-02,P-402,Partner,EMEA,Portugal,25
+ORD-10147,4/8/2024,S-04,P-402,Retail,Americas,Mexico,9
+ORD-10148,2/21/2024,S-04,P-201,Online,Americas,Mexico,12
+ORD-10149,6/3/2024,S-01,P-402,Partner,EMEA,United Kingdom,5
+ORD-10150,1/24/2024,S-01,P-302,Retail,EMEA,United Kingdom,23
+ORD-10151,11/22/2024,S-08,P-102,Online,APAC,Japan,19
+ORD-10152,8/28/2024,S-08,P-301,Retail,APAC,Japan,6
+ORD-10153,5/9/2024,S-08,P-102,Online,APAC,Japan,13
+ORD-10154,2/7/2024,S-10,P-401,Partner,Americas,Canada,2
+ORD-10155,3/17/2024,S-10,P-201,Online,Americas,Canada,8
+ORD-10156,10/12/2024,S-07,P-303,Partner,EMEA,Kenya,20
+ORD-10157,9/24/2024,S-07,P-301,Retail,EMEA,Kenya,10
+ORD-10158,6/5/2024,S-10,P-303,Online,Americas,Canada,20
+ORD-10159,4/16/2024,S-04,P-201,Partner,Americas,Mexico,3
+ORD-10160,5/2/2024,S-03,P-302,Online,APAC,Singapore,6
+ORD-10161,7/28/2024,S-08,P-402,Partner,APAC,Japan,16
+ORD-10162,1/17/2024,S-04,P-201,Partner,Americas,Mexico,10
+ORD-10163,2/6/2024,S-04,P-502,Retail,Americas,Mexico,21
+ORD-10164,8/5/2024,S-02,P-302,Online,EMEA,Portugal,21
+ORD-10165,5/16/2024,S-03,P-102,Online,APAC,Singapore,6
+ORD-10166,10/31/2024,S-10,P-502,Retail,Americas,Canada,15
+ORD-10167,8/27/2024,S-05,P-402,Retail,Americas,United States,9
+ORD-10168,8/12/2024,S-02,P-303,Online,EMEA,Portugal,14
+ORD-10169,11/5/2024,S-05,P-101,Online,Americas,United States,8
+ORD-10170,12/10/2024,S-05,P-303,Online,Americas,United States,25
+ORD-10171,8/28/2024,S-09,P-401,Retail,Americas,Brazil,9
+ORD-10172,10/26/2024,S-07,P-401,Retail,EMEA,Kenya,3
+ORD-10173,6/27/2024,S-07,P-202,Retail,EMEA,Kenya,22
+ORD-10174,3/23/2024,S-06,P-203,Partner,EMEA,United Arab Emirates,16
+ORD-10175,12/5/2024,S-07,P-501,Partner,EMEA,Kenya,2
+ORD-10176,2/15/2024,S-06,P-201,Retail,EMEA,United Arab Emirates,4
+ORD-10177,9/20/2024,S-01,P-401,Partner,EMEA,United Kingdom,15
+ORD-10178,1/28/2024,S-04,P-302,Retail,Americas,Mexico,20
+ORD-10179,11/16/2024,S-08,P-403,Online,APAC,Japan,7
+ORD-10180,10/8/2024,S-03,P-502,Retail,APAC,Singapore,15
+ORD-10181,3/3/2024,S-01,P-401,Partner,EMEA,United Kingdom,8
+ORD-10182,6/8/2024,S-09,P-101,Partner,Americas,Brazil,14
+ORD-10183,4/25/2024,S-02,P-301,Online,EMEA,Portugal,21
+ORD-10184,9/12/2024,S-05,P-302,Partner,Americas,United States,9
+ORD-10185,9/4/2024,S-08,P-104,Retail,APAC,Japan,18
+ORD-10186,7/15/2024,S-04,P-502,Partner,Americas,Mexico,17
+ORD-10187,2/5/2024,S-05,P-403,Retail,Americas,United States,11
+ORD-10188,1/2/2024,S-05,P-402,Retail,Americas,United States,19
+ORD-10189,3/17/2024,S-08,P-302,Retail,APAC,Japan,12
+ORD-10190,10/9/2024,S-09,P-203,Retail,Americas,Brazil,11
+ORD-10191,12/23/2024,S-04,P-303,Retail,Americas,Mexico,8
+ORD-10192,1/23/2024,S-06,P-402,Retail,EMEA,United Arab Emirates,23
+ORD-10193,7/16/2024,S-03,P-301,Online,APAC,Singapore,5
+ORD-10194,2/21/2024,S-08,P-102,Partner,APAC,Japan,15
+ORD-10195,3/14/2024,S-07,P-501,Partner,EMEA,Kenya,5
+ORD-10196,8/28/2024,S-05,P-202,Partner,Americas,United States,23
+ORD-10197,11/28/2024,S-02,P-501,Retail,EMEA,Portugal,22
+ORD-10198,6/11/2024,S-08,P-501,Partner,APAC,Japan,2
+ORD-10199,4/30/2024,S-05,P-104,Partner,Americas,United States,3
+ORD-10200,2/20/2024,S-02,P-301,Online,EMEA,Portugal,23

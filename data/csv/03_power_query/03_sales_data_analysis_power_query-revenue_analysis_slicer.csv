@@ -1,0 +1,14 @@
+,,,,,,,,
+,,,,,,,,
+01_products.Product,Sum of Revenue,Product Sold,,,,,01_products.Category,Sum of Revenue
+Gaming Laptop 16,"$421,925",21,,,,,Laptops,"$768,485"
+Business Laptop 15,"$199,763",15,,,,,Displays,"$156,214"
+Ultrabook 14,"$146,798",13,,,,,Audio,"$81,980"
+34in Ultrawide,"$74,464",10,,,,,Total Result,"$1,006,679"
+27in Monitor,"$44,040",18,,,,,,
+Portable Monitor,"$37,710",15,,,,,,
+Noise-Cancel Headset,"$36,960",17,,,,,,
+Conference Mic,"$27,469",18,,,,,,
+Document Scanner,"$25,264",11,,,,,,
+Desk Speakers,"$17,551",16,,,,,,
+Total Result,"$1,031,943",154,,,,,,

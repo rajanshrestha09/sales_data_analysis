@@ -1,0 +1,29 @@
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+01_products.Product,Sum of Revenue,,,,,,,,01_products.Product,Sum of Profit,,,,,
+Gaming Laptop 16,"$421,925",,,,,,,,Gaming Laptop 16,"$59,225",,,,,
+Business Laptop 15,"$199,763",,,,,,,,Business Laptop 15,"$31,043",,,,,
+Ultrabook 14,"$146,798",,,,,,,,Ultrabook 14,"$27,078",,,,,
+34in Ultrawide,"$74,464",,,,,,,,Noise-Cancel Headset,"$12,600",,,,,
+27in Monitor,"$44,040",,,,,,,,Conference Mic,"$12,279",,,,,
+,,,,,,,,,34in Ultrawide,"$12,184",,,,,
+,,,,,,,,,27in Monitor,"$12,090",,,,,
+,,,,,,,,,Portable Monitor,"$12,090",,,,,
+,,,,,,,,,Document Scanner,"$8,896",,,,,
+,,,,,,,,,Desk Speakers,"$7,959",,,,,
+,,,,,,,,,Total Result,"$195,443",,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Sum of Revenue,Region,,,,,,Sum of Revenue,Channel,,,,,,01_products.Category,Sum of Revenue
+Country,Americas,APAC,EMEA,Total Result,,,01_products.Category,Online,Retail,Partner,Total Result,,,Accessories,"$16,484"
+United States,"$193,317",,,"$193,317",,,Laptops,"$350,905","$259,590","$157,990","$768,485",,,Audio,"$81,980"
+Kenya,,,"$144,780","$144,780",,,Displays,"$42,525","$65,262","$48,427","$156,214",,,Displays,"$156,214"
+Portugal,,,"$139,810","$139,810",,,Audio,"$21,422","$38,287","$22,272","$81,980",,,Laptops,"$768,485"
+Mexico,"$132,601",,,"$132,601",,,Peripherals,"$11,662","$12,796","$11,218","$35,676",,,Peripherals,"$35,676"
+Singapore,,"$105,455",,"$105,455",,,Accessories,"$7,404","$3,605","$5,474","$16,484",,,Total Result,"$1,058,839"
+Japan,,"$88,023",,"$88,023",,,Total Result,"$433,918","$379,540","$245,381","$1,058,839",,,,
+Brazil,"$78,494",,,"$78,494",,,,,,,,,,,
+Canada,"$66,945",,,"$66,945",,,,,,,,,,,
+United Kingdom,,,"$58,956","$58,956",,,,,,,,,,,
+United Arab Emirates,,,"$50,459","$50,459",,,,,,,,,,,
+Total Result,"$471,356","$193,478","$394,005","$1,058,839",,,,,,,,,,,
