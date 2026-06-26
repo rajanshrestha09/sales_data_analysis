@@ -229,9 +229,15 @@ data
 
 ## 👤 Author
 
-**Rajan Shrestha**
-- 📧 Email: [stharaz09@gmail.com]
+## 📬 Contact
 
----
+**Rajan Shrestha** · Data Analyst & Full Stack Developer · Edmonton, AB 🇨🇦
+- 📧 Email: [rajanshr09@gmail.com]
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/rajanshrestha09)
+
+> 📄 Project 1 → [Sale Data Analysis](https://github.com/rajanshrestha09/sales_data_analysis/)
+> 📄 Project 2 → [Sale Data Analysis-SQL](https://github.com/rajanshrestha09/SALE_DB_PROJECT)
 
 *This project is part of my data analytics portfolio showcasing Excel-based business intelligence and dashboard design.*
